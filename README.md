@@ -6,7 +6,7 @@ To get a Git project into your build:
 
 > Step 1. Add the JitPack repository to your build file
 
-```gradel
+```gradle
 allprojects
 	{
 		repositories {
@@ -18,7 +18,7 @@ allprojects
   
   > Step 2. Add the dependency
 
-```gradel
+```gradle
 dependencies 
 	{
 	        implementation 'com.github.estiak-sourav:HelloLibrary:Tag'
