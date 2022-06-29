@@ -12,4 +12,10 @@ public class HelloEbs {
     public static int addon(int a, int b){
         return a + b;
     }
+
+    public static int sum(int a, int b){
+        return a + b;
+    }
+
+
 }
