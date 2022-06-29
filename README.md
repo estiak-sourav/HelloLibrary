@@ -4,7 +4,7 @@ Simple toast library
 
 To get a Git project into your build:
 
-> latest version 1.0.3
+> latest version $1.0.3
 
 > Step 1. Add the JitPack repository to your build file
 
